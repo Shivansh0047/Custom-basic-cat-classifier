@@ -4,6 +4,8 @@ This project implements a custom deep neural network from scratch (using only Nu
 
 It demonstrates how to build all layers, activations, forward and backward passes without any high-level frameworks.
 
+Note: This was built as an assignment for the Coursera course Neural Networks and Deep Learning by Andrew Ng. Some parts of the code and the dataset come from that course.
+
 ---
 
 ## Features
