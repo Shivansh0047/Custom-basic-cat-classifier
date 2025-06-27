@@ -115,17 +115,3 @@ Install all with:
 ## Example Result
 
   Prediction: "cat"
-
----
-
-## Pushing to GitHub
-
-After editing and committing your changes locally, you can push them to your GitHub repository with:
-
-  git push origin main
-
----
-
-## License
-
-MIT License
