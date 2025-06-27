@@ -16,6 +16,14 @@ It demonstrates how to build all layers, activations, forward and backward passe
 
 ---
 
+## Note on Model Limitations
+
+This model is very basic and is not able to distinguish between different cat species (for example, domestic cats vs. lions or tigers). It also misclassifies a lot of images.
+
+It could be made better by training on a bigger and more diverse dataset, but the point of this project is to learn how to implement a deep neural network **from scratch**.
+
+---
+
 ## Dataset
 
 This model uses a simple Coursera cat dataset to predict whether an image is a cat or non-cat.
