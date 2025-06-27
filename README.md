@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Custom Deep Neural Network for Binary Classification of Cats
 
 This is a custom deep neural network built from scratch in NumPy to classify images as "cat" or "non-cat".
@@ -51,3 +52,7 @@ Install with:
 ## License
 
 MIT License
+=======
+# Custom-basic-cat-classifier
+Binary cat vs non-cat classifier with webcam support
+>>>>>>> 041d71510dcd039ec6d82b6dd4df3d290c9712b7
